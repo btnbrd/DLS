@@ -1,3 +1,3 @@
 # DLS
 
-Домашние работы по курсу [https://stepik.org/course/181974/syllabus](Deep learning school 2023) от https://dls.samcs.ru/
+Домашние работы по курсу [Deep learning school 2023](https://stepik.org/course/181974/syllabus) от https://dls.samcs.ru/
